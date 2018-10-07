@@ -1,7 +1,7 @@
 # pandas-numpy
-Question 1: /<br> 
-Merge the two datasets Olympics_dataset1.csv and Olympics_dataset2.csv and display the first five rows (do not concatenate the datasets). \<br> 
-Question 2: \<br> 
+Question 1: <br> 
+Merge the two datasets Olympics_dataset1.csv and Olympics_dataset2.csv and display the first five rows (do not concatenate the datasets). <br> 
+Question 2: <br> 
 Set the index as the country name and then display the first country in the Dataframe. \<br> 
 Question 3: \<br> 
 Remove the rubish column and display the first five rows.\<br> 
